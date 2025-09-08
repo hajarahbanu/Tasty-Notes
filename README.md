@@ -2,7 +2,7 @@
 
 A modern, responsive web application for discovering, creating, and managing your favorite recipes. Built with React and styled with Tailwind CSS, TastyNotes provides an intuitive interface for culinary enthusiasts to organize their cooking journey.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-brightgreen)]((https://tasty-notes-two.vercel.app/)) ![React](https://img.shields.io/badge/React-19.1.1-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.12-38B2AC) ![Vite](https://img.shields.io/badge/Vite-7.1.2-646CFF)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-brightgreen)](https://tasty-notes-two.vercel.app/) ![React](https://img.shields.io/badge/React-19.1.1-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.12-38B2AC) ![Vite](https://img.shields.io/badge/Vite-7.1.2-646CFF)
 
 ## ✨ Features
 
